@@ -29,9 +29,7 @@ body {
     font-family: "Open Sans Condensed", Monaco, monospace;
     padding-bottom: 60px;
 }
-body > div {
-   
-}
+
 
 h1,h2,h3,h4,h5,h6 {
     font-family: Sansita, "Lucida Grande", sans-serif;
@@ -40,7 +38,7 @@ header {
      background-color: #A6D8DB;
 }
 .title, footer {
-    background-color: #A6D8DB;
+   
     padding: .3em;
 }
 .title > h1 {
